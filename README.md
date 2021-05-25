@@ -3,11 +3,13 @@
 Requerimientos previos para su correcta ejecución:
 
 Para ejecutar en Linux o Windows:
+
 1- instalar el interprete de python.
 2- Descargar y ejecutar el archivo Seller Items Generator.exe.
 
 
 Operatoria funcional del script.
+
 1- Al ejecutar el script nos pedira que se ingrese el numero de id del usuario que desea realizar la consulta.
 
 2- Ingresar el numero id del usuario a consultar y presionar enter.
