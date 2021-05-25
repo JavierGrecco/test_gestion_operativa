@@ -1,6 +1,4 @@
-# Test_Gestio-n_Operativa
-
-Requerimientos previos para su correcta ejecución:
+### requerimientos
 
 Para ejecutar en Linux o Windows:
 
@@ -9,7 +7,7 @@ Para ejecutar en Linux o Windows:
 2- Descargar y ejecutar el archivo Seller Items Generator.exe.
 
 
-Operatoria funcional del script.
+### procedimiento
 
 1- Al ejecutar el script nos pedira que se ingrese el numero de id del usuario que desea realizar la consulta.
 
