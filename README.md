@@ -4,7 +4,7 @@
 
 
 ***
-Script para recorrer todos los ítems publicados por un seller_id y generar un archivo de LOG con sus datos.
+Script para recorrer todos los ítems publicados por un seller_id en la zona  "MLA" y generar un archivo de LOG con sus datos.
 ***
 
 ## requerimientos
