@@ -13,7 +13,7 @@ Script para recorrer todos los ítems publicados por un seller_id en la zona  "M
 ```
 1- instalar el interprete de python.
 
-2- Descargar y ejecutar el archivo Seller Items Generator.exe.
+2- Descargar y ejecutar el archivo seller_items_generator.py
 ```
 
 ***
